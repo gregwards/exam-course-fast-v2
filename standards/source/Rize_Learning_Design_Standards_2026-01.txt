@@ -1,0 +1,478 @@
+﻿Rize Learning Design Standards
+Last Updated: January 2026 
+Applies to: Undergraduate courses (100-400 level)
+Video Overview: Rize Learning Design & Formatting Standards UPDATE for FALL 2026
+________________
+
+
+How to Use This Document
+This document is organized by when you need it in the development process:
+1. Foundational Principles — The "why" behind everything. Reference when making judgment calls.
+2. Course Plan Stage — What gets locked before unit building begins.
+3. Unit Build Stage — Standards for writing assignments, discussions, resources.
+4. QA & Formatting — Checklist before handoff.
+5. Appendices — Pending changes, and standards removed or deprecated from F25
+Standard Markers:
+* 🆕 New or Updated from 2025
+
+________________
+
+
+Part 1: Foundational Principles
+These principles inform all decisions. When standards conflict or situations aren't covered, return here.
+LD-GEN-01: The Online Skeptic 🆕
+   * Standard: Design for the "Online Skeptic"—the student who wants to succeed but is time-poor, hates ambiguity, and needs to be convinced that their effort is worthwhile. Every graded activity must pass these tests:
+   * Purpose test: Can you state why this matters in one sentence?
+   * Path test: Could a student complete this successfully using only provided resources and instructions?
+   * Clarity test: Would a frustrated student know exactly what to do first?
+   * Rationale: By focusing on this persona, we create courses that are clear, purposeful, and respectful of every student's time.
+LD-GEN-02: The Hierarchy of Needs
+   * Standard: Design priorities follow a strict hierarchy: Clarity > Relevance > Fun.
+   * Rationale: An engaging assignment is worthless if students don't understand what to do. Ensure the foundation is solid before adding creative flourishes.
+LD-GEN-03: Every Action is Earned
+   * Standard: Every task, resource, and activity must have a clear purpose that is communicated to the student.
+   * Rationale: The Online Skeptic will disengage if they feel their time is being wasted. Justify every action by connecting it to a valuable skill or a clear step toward the final project.
+LD-GEN-04: When Standards Conflict 🆕
+   * Standard: Apply standards in this priority order:
+   1. Accessibility requirements (ACC-*) — Non-negotiable for legal/ethical compliance
+   2. Foundational Principles (LD-GEN-*) — The "why" overrides the "what"
+   3. Course-level templates — Program-specific requirements override general standards
+   4. Specific standards — Follow the most specific applicable rule
+   5. Online Skeptic test — When truly ambiguous, optimize for LD-GEN-01
+   * Rationale: IDs need clear guidance when rules appear to conflict. This hierarchy ensures we never compromise accessibility, stay true to our design philosophy, and respect program-level decisions.
+   * Application: If a course template requires group work (conflicts with LD-ASG-02), the template wins—but document the exception and apply LD-GEN-01 principles to make it as clear and fair as possible.
+________________
+
+
+Part 2: Course Plan Standards
+The Course Plan is the high-level blueprint created before unit-level building begins. Requirements for course plans are largely set by course-level templates; the standards here guide ID decisions as they build out projects and assignment ideas within the course plan framework.
+Course-Level Architecture (LD-ARC)
+LD-ARC-01: Course Units
+   * Standard: A Unit is a self-contained module of learning. All undergraduate courses have 14 units. Only use "Unit" in course copy—never "Week."
+   * Rationale: This allows flexible deployment across different academic calendars (14-week, 8-week compressed).
+LD-ARC-02: LO Assessment Frequency 
+   * Standard:
+   * Every PLO and CLO must be assessed in at least two separate, graded activities via assignments
+   * PLOs must be assessed in the final project (may be fully assessed by 2 final project deliverables)
+   * To count toward the 2x requirement, the PLO/CLO must be assessed with a 6-level rubric (see LD-GRD-03 Right Sized Rubric)
+   * Rationale: Repeated assessment with detailed rubrics ensures rigorous measurement of true mastery, not just participation.
+Final Project (LD-FP)
+LD-FP-01: The Portfolio-Worthy Product
+   * Standard: Every course must be a bridge to a professional milestone. The final project, and the assignments that build towards it, should be designed to produce a tangible, unique, portfolio-worthy deliverable that a student can use to demonstrate their skills in a job interview. 
+   * Rationale: The "Online Skeptic" is motivated by practical value. While grades are important, the ultimate goal for many is career advancement. By explicitly designing assignments that simulate professional work, we answer their most critical question: "How will this help me get a job?"
+   * Success Indicators: 🆕
+   * Deliverable is tangible (document, design, code, presentation)
+   * Every student's output is unique to their choices/research
+   * Output demonstrates multiple course skills in integration
+   * Student could upload to LinkedIn or show in interview
+   * Connects to specific job functions in the field
+LD-FP-02: Project Milestones
+   * Standard: Final projects must include: Proposal, Draft, Final Submission, and Asynchronous Fair. Drafts and Final Submissions. Pacing is indicated by course-level templates.
+   * Rationale: This structure guarantees at least two cycles of meaningful feedback, which is critical for student success on high-stakes projects.
+LD-FP-03: Project Originality
+   * Standard: The final project must ensure every student's submission is unique. While earlier assignments may use shared case studies, the final project must require students to apply frameworks to their own research, ideas, or chosen scenarios.
+   * Rationale: This ensures projects are opportunities for genuine creativity and personal expression, not just skill demonstration.
+LD-FP-04: Project Complexity by Level
+   * Standard: Final projects must be scoped with complexity appropriate to the course level (100-level: Guided; 200-level: Semi-independent; 300-level: Independent; 400-level: Capstone; 500-level: Strategic).
+   * Rationale: This ensures that projects are appropriately challenging, meeting students where they are.
+LD-FP-04: Project Complexity by Level 🆕
+   * Standard: Final projects must be scoped appropriately to course level. See course-level templates for detailed guidance on scaffolding, problem definition, and success criteria for each course type. Course level should guide project complexity; for example, a 200-level Advanced Elective final project will have more structure and scaffolding than a 300-level Advanced Elective.
+   * Rationale: Appropriate challenge meets students where they are while pushing growth.
+Level
+	Complexity
+	Key Characteristics
+	Exemplar
+	100-level
+	Guided
+	Students follow templates and frameworks to complete a structured deliverable.
+	PROJM I - PROJM I - Final Project Packet [Final]
+Students create a personal project charter using a structured template package (Project Screening Matrix, Business Case, SMART Goals, Methodology Selection, Implementation Readiness Assessment). Students do choose their own project topic (a personal life goal), which adds meaningful autonomy. But the execution path remains fully guided by templates, keeping it appropriate for 100-level.
+	200-level
+	Semi-independent
+	Students make choices within a defined structure to produce a simulated professional deliverable.
+	AIL IV - AIL IV - Final Project Packet
+Students conduct an AI Ethics Audit by selecting one of three pre-documented AI systems (or proposing their own) and analyzing it through established frameworks (EU AI Ethics Guidelines, EU AI Act, NIST AI RMF). Students aren't just filling in blanks (that would be 100-level), but they're also not defining the entire problem or creating something deployed (that would be 300-level).
+	300-level
+	Independent
+	Students define their own problem and create a real, deployed output.
+	COMPS IX - COMPS IX - Final Project Packet
+Students design and build a REST API of their own choosing, then deploy it to a cloud platform (Render) with a publicly accessible URL. The output exists in the world, can be accessed, and functions. Students have to solve real technical problems to make their design work.
+	400-level
+	Capstone
+	Students produce portfolio-ready work that could be shown to employers.
+	DMARK VII - DMARK VII - Capstone Project
+Students design and execute a complete multi-channel growth marketing campaign, packaged as a portfolio-ready deliverable with video presentation. The framing is explicitly employer-focused, which distinguishes it from 300-level (where the focus is on real deployment) and marks it clearly as capstone work.
+	LD-FP-06: Learning Outcomes Mapping
+   * Standard: The Final Project must directly assess all PLOs assigned to the course and at least three of the most significant CLOs. "Directly assess" means the outcome is explicitly measured in the final submission's rubric.
+   * Rationale: The Learning Outcomes define what a student must learn. The Final Project is the authentic, portfolio-worthy simulation that defines how they will prove their mastery. It serves as the primary motivational and structural anchor for the course, providing a compelling real-world context for all preceding skill-building.
+Activities & Assessments (Course Plan Stage) (LD-ACT)
+LD-ACT-01: Activity Mix
+   * Standard: All courses must include Assignments and Discussions. Quizzes are required for all courses except careers courses (200-level) and capstone courses (400-level). A single unit can contain:
+   * Assignment alone
+   * Assignment + discussion
+   * Assignment + quiz
+   * Discussion + quiz
+   * Discussion + quiz + Career Milestone
+   * Discussion + Career Milestone
+   * Quiz + Career Milestone
+   * Restrictions — Unless specified in the course-level templates, units cannot contain:
+   * A discussion alone
+   * A quiz alone
+   * Rationale: A varied mix caters to different learning preferences and ensures rigorous assessment.
+Grading Standards (Course Plan Stage) (LD-GRD)
+LD-GRD-01: Grade Pacing 🆕
+   * Standard: All courses are worth 1000 points. Unit-by-unit distribution and pacing are determined by course-level templates:
+   * No more than 300 points may be due in a single week
+   * Grade points scale with assignment difficulty. Involved benchmarking assignments and final project milestones are with more than regular assignments and quizzes.
+   * Final project components cannot exceed 400 points total (exception: capstone courses may allocate up to 700 points over the semester)
+   * Rationale: These limits ensure balanced workload and prevent any single assessment from having disproportionate impact.
+LD-GRD-02: Point Allocation 🆕
+   * Standard: Within a unit, points may be divided between subject-specific activities like assignments, quizzes, and discussions. Points should scale with effort. Low-stakes quizzes and discussions should be between 10 and 40 points, and fewer points than involved assignments.
+   * Rationale: This allows the Online Skeptic to get comfortable and build confidence in a low-stakes environment.
+Resource Standards (Course Plan Stage) (LD-RES)
+LD-RES-03: Paid Materials Approval
+   * Standard: Selection and approval of any required paid materials must be completed during Program Design phase, or at least 1 semester before the course runs.
+   * Rationale: Students need ample time to procure materials without last-minute surprises regarding course costs.
+________________
+
+
+Part 3: Unit Build Standards
+These standards govern the creation of individual assignments, discussions, quizzes, and resources within each unit.
+Activities & Assessments (Unit Build Stage) (LD-ACT)
+LD-ACT-02: Activity Purpose and Assessment
+   * Standard: Activities serve distinct purposes within a unit:
+Activity Type
+	Purpose
+	Rubric
+	Counts toward 2x LO requirement?
+	Assignments/Projects
+	Primary assessment of PLOs/CLOs
+	6-level
+	Yes
+	Discussions
+	Engagement, critical thinking, community
+	3-level
+	No
+	Quizzes
+	Knowledge checks
+	N/A
+	No
+	   * Rationale: Clear purpose differentiation ensures each activity type serves its intended learning function.
+LD-ACT-03: Three-Heading Structure
+   * Standard: Every activity (assignments, discussions, quizzes) must use three sections:
+   * Turn In — What students submit.
+   * Context — Why this matters, connection to final project and real world
+   * Steps — What students do
+   * Rationale: This provides a consistent, predictable structure that helps students quickly understand the what, why, and how of every task.
+LD-ACT-04: Turn In Quality 🆕 
+   * Standard: Turn In sections answer "What am I submitting?" — nothing more. List deliverables, file formats, and word counts. Do not restate instructions from Steps.
+   * Examples:
+   * Assignments: “Submit your completed Brand Analysis (2-3 pages, PDF or Word doc).”
+   * Discussions (non-MBA, response optional): “Submit a 200-300 word initial discussion post. Peer responses are optional but encouraged.”
+   * Discussions (non-MBA, response required): “Submit a 200-300 word initial discussion post by the end of Unit 5. Respond to 2 peers by the end of Unit 6.”
+   * Rationale: Students scan Turn In first to understand scope. Keeping it short and consistent respects their time.
+LD-ACT-05: Context Quality 🆕 
+   * Standard: Context answers “what am I doing, and why does it matter?”.. It does NOT teach or instruct. 
+   * Context should include:
+   * The scenario or framing (what professional situation is this simulating?)
+   * Why this skill matters in the real world
+   * How this connects to the course arc (what it builds on, what it prepares you for)
+   * Context should NOT include:
+   * How-to instructions (belongs in resources)
+   * Detailed requirements or criteria (belongs in steps/rubric)
+   * Background knowledge or definitions (belongs in resources)
+   * Rationale: Students read Context to understand "why am I doing this?" not "how do I do this?" Mixing instruction into Context buries the motivation and makes assignments harder to scan.
+   * Success Indicators: 🆕
+   * Contains a scenario or professional framing
+   * Includes phrase connecting to final project or real world
+   * Student can answer "Why does this matter to me?" after reading
+   * Test: Remove Context entirely. Do Steps still work? If yes, Context is doing its job (motivating, not instructing).
+LD-ACT-06: Steps Quality
+   * Standard: Steps must be:
+   * Titled: Each step has a short, descriptive title (not numbered—the LMS handles numbering)
+   * Action-oriented: Every step directs students to complete a specific action and make progress with their work
+   * Flexible format: Under each title, use whatever fits: paragraphs, ordered lists, unordered lists, images
+   * Resource-integrated: Every required resource must support at least one specific step
+   * Brief: No single step should include paragraphs of text. Max 3 sentences + bullets or ordered lists.
+   * Restrictions: No teaching in steps. Instruction and background knowledge belongs in resources.
+   * Rationale: Clear, actionable steps respect the Online Skeptic's time and ensure resources have clear purpose.
+   * Success Indicators: 🆕
+   * Every step title is action-oriented
+   * Every required resource is referenced in at least one step
+   * Steps contain zero teaching paragraphs (definitions, explanations)
+   *  A student could complete steps with resources alone
+   * Each step advances work toward the deliverable
+   * Quick Test: Could you follow Steps with all Context and Resources hidden? If no, you're teaching in Steps.
+LD-ACT-07: Exemplars 🆕
+   * Standard: Exemplars illustrate successful application of skills required by an assignment
+   * Placement: Exemplars for midterm projects, final project proposal, draft, or submission
+   * Quality: Must represent A-level work (>93% on rubric).
+   * Types:
+Type
+	When to Use
+	Example
+	Exemplar from course
+	Parallel Exemplar (Preferred)
+	Assignment has a constrained topic/case study. The exemplar can come from real professional sources, anonymized prior student work, or be made by IDs/SMEs. 
+	Final project uses Brand X; exemplar shows analysis of Brand Y
+	DMARK I
+View in Learn
+View in Sanity
+
+
+	Process Walkthrough
+	Technical work where seeing the output helps but "how" must be original
+	Screencast of working app; demo of completed dashboard
+	COMPS
+View in Loom
+	   * Rationale: The Online Skeptic wants to know exactly what they need to do to get a good grade.
+   * Application: Annotation is required—exemplars without annotation are just files. Explain what works and why. "What grade would this get?" sections with rubric scoring help students calibrate expectations. Note scenario gaps when exemplar uses different context than assignment.
+LD-ACT-08: Templates 🆕
+   * Standard: Templates are required for assignments where students must reproduce specific document structures.
+   * Placement: Direct link within Steps at the exact point the student needs it.
+   * Format:
+   * Google Docs/Sheets/Slides: Use /copy URL ending so students automatically get their own copy
+   * Word/Excel/PowerPoint: Provide as downloadable file
+   * Rationale: Templates let the Online Skeptic skip organizational setup and focus cognitive energy on actual learning goals.
+
+
+Assignment Standards (LD-ASG)
+LD-ASG-01: Assignment Guidelines 🆕
+   * Standard: Strong assignments:
+   * Simulate real tasks
+   * Produce a tangible deliverable
+   * Can be completed with provided resources
+   * Has a clear path to success. A student who reads the Context, follows the Steps, and uses the Resources should be able to produce work that meets the rubric.
+   * Rationale: The Online Skeptic asks "why am I doing this?" and "what do I get out of it?" Assignments that feel like real work with real outputs answer both questions.
+   * Success Indicators:
+   * Assignment simulates a real professional task
+   * Deliverable could be shown in a job interview
+   * Required resources + Steps = clear path to success
+   * Rubric criteria are observable in the deliverable
+   * Assignment builds skills used in final project
+LD-ASG-02: No Group Work
+   * Standard: All graded assignments are individual work. Do not design assignments that require group collaboration or shared deliverables.
+   * Rationale: Group work creates grading dependencies and logistical challenges in asynchronous online courses.
+LD-ASG-03: AI-Aware Assignment Design
+   * Standard: Implement the stoplight system. This will be implemented in the UI[a] and should not be added to assignment copy:
+   * 🟢 Green light: AI use is permitted in any form and may be required. Prompt and conversation must be submitted with deliverable.
+   * 🟡 Yellow light: AI may be used for specific steps, but not all. Follow instructions and prompt and conversations must be shared if used.
+   * 🔴 Red light: AI use is not permitted in this assignment in order to support learning. 
+   * Rationale: AI tools are a professional reality. The goal is assessments that require uniquely human skills, rendering simple AI generation insufficient for success.
+Discussion Standards (LD-DSC)
+LD-DSC-01: Discussion Guidelines
+   * Standard: Discussion prompts must be subjective and open-ended with no single "right" answer. A good test is: would this prompt generate discussion if everyone was sat in a room together?
+   * Good formats: Ethical debates, subjective critiques of real-world examples, lived experience shares
+   * Bad formats: Comprehension checks ("What are the three types of...?"), vague reflections ("What did you think?"), unstructured peer review (“Share your work and comment”) - anything with an objective answer or a multi-step analysis.
+   * Rationale: Authentic discourse requires subjective, open-ended prompts. Forcing discussions to carry LO assessment load creates transactional activities that reduce engagement.
+LD-DSC-02: Discussion Responses 🆕
+   * Standard: Make responses optional by default. Provide specific response prompts rather than “respond to two peers.” Responses may be required if a discussion board is utilized to facilitate peer review. Exception: Discussions used for peer review may require responses and have multiple due-dates.
+   * Example: Challenge or build on someone’s framework choice, share a similar experience from a different industry
+   * Rationale: Required response requirements lead to superficial engagement. 
+Quiz Standards (LD-QZ)
+LD-QZ-01: Quiz Policies
+   * Standard:
+   * Two attempts allowed by default
+   * Untimed
+   * Allowed question types: Multiple Choice, Multiple Selection, Fill-In-The-Blank, Matching, Number Entry, Short Answer
+   * Rationale: The two-attempt, untimed policy reinforces the low-stakes, formative nature of quizzes.
+LD-QZ-02: Quiz Feedback 🆕
+   * Standard: Provide negative response text for students to see between quiz attempts. Indicate the resource they should refer to in case they got the question wrong.
+   * Rationale: Giving students two attempts allows them to review course material between attempts; negative response text points them in the right direction.
+
+
+Resource Standards (Unit Stage) (LD-RES)
+LD-RES-02: Resource Purpose 🆕
+   * Standard: A unit must provide all Required Resources necessary to complete the main assignment, tied to specific steps. NO additional / optional resources are to be provided as standalone pages. 
+   * Rationale: This respects the student's time by clearly differentiating between essential and supplementary materials.
+LD-RES-03: Choose High-Quality External Over Custom 🆕
+   * Standard: Use existing quality resources when they exist. IDs are not writing textbooks. Rize Remix (ID-created) resources are appropriate only when:
+   * No suitable external resource exists
+   * Synthesis across multiple sources adds clear value
+   * Tight alignment with assignment steps requires custom content (e.g., templates, exemplars)
+   * A quick-reference tool would genuinely help students (e.g., formula sheets, checklists)
+   * A template will aid learning.
+   * Rationale: Quality external sources are often better than AI-generated custom content. ID time is better spent on integration and scaffolding than content creation.
+   * Success Indicators for "No suitable resource exists": 🆕
+   * Searched 3+ quality sources (textbooks, professional sites, .edu/.gov)
+   * Existing resources are wrong level (too basic/advanced)
+   * Existing resources don't align with assignment specifics
+   * Custom synthesis would save student time vs. reading multiple sources
+LD-RES-04: Three Resource Tiers 🆕
+   * Standard: Resources fall into three tiers based on how much ID work they require:
+   * Tier 1: External Resource, Light Touch. A quality source exists and speaks for itself. Provide a descriptive title and link. Connection to the assignment happens in the Steps.
+   * Example: Chapter 4: Menus (Introduction to Food Production and Service) [Link]
+   * Tier 2: External Resource, Guided. A quality source exists but students need help navigating it. Add brief framing (1-3 sentences): what to focus on, what to skip, or why this source.
+   * Example: Chapter 7: Recipe and Menu Costing (Introduction to Food Production and Service) [Link] Focus on the sections about standard portion costs. Skip the restaurant pricing markup—we'll cover that in Unit 9.
+   * Tier 3: Rize Remix (ID-Created) Includes Exemplars and Templates
+   * No suitable external resource exists, or synthesis/customization adds clear value. List sources at the end with links.
+   * Guidance for Rize Remix resources: Good examples include
+   * Worked examples related to the assignment
+   * Reference tools students will keep open while working (e.g. formulas and equations, code blocks, processes)
+   * Exemplars with annotation explaining why something works
+   * Templates for students to use for their submission
+   * Avoid:
+   * Listicles without depth or worked examples
+   * Content that restates the textbook
+   * "Everything you need to know about X" dumps
+
+
+Grading Standards (Unit Plan Stage) (LD-GRD)
+LD-GRD-03: Right-Sized Rubric
+   * Standard: Select the rubric type that matches the assessment purpose:
+Rubric Type
+	Use For
+	3-level (Meets/Below/No Evidence)
+	Discussions, participation, completion-based tasks, peer feedback
+	6-level (Outstanding through No Evidence)
+	Complex assignments with multiple criteria, LO mastery assessment
+	   * Rationale: This ensures the assessment tool matches the learning purpose. 3-level rubrics provide clarity for engagement activities without over-complicating grading. 6-level rubrics provide detailed feedback for complex skill demonstration.
+LD-GRD-04: No Surprises
+   * Standard: Everything in the rubric must be accounted for in the Turn In and Steps. If a learning outcome is listed for an assignment, it must be meaningfully assessed by specific rubric criteria.
+   * Rationale: Students should only be assessed on criteria that were clearly communicated.
+LD-GRD-05: Rubric Criteria
+   * Standard: Large rubrics are hard to read for the student and instructor, and generally should have no more than 3 criteria. Rubric criteria in 6-point rubrics should be worth at least 10 points. Any criterion more granular that that should be folded together with another (e.g. “citations” and “professionalism and presentation” can be combined into a general “professional and academic standards” criterion).
+   * There should only be 4 criteria for large projects (>70 points)
+   * There should only ever be 5 criteria for a final project draft or final submission.
+   * Rationale: We want to avoid criteria getting too granular, particularly in 6-point rubrics, as this complicates the grading process. 
+LD-GRD-06: Peer Review Grading
+   * Standard: Peer review activities must be graded as separate, low-stakes, effort-based tasks. A student's grade cannot depend on another student's participation.
+   * Rationale: This separation ensures grading is fair and predictable.
+
+
+
+
+________________
+
+
+Part 4: QA & Formatting Standards
+Use this as a QA checklist before handoff. These standards should be covered by the AI assignment builder and are here for your reference.
+Naming Conventions
+QA-01: Activity Names 🆕
+   * Standard: Descriptive title only, no numbering prefix. Indexing will be handled by the UI.[b]
+   * Examples: 
+   * Creating a Dashboard
+   * Final Project Proposal: Pitching Your Campaign
+   *   QA-02: Resource Names 🆕
+      * Standard: Descriptive title only, no numbering prefix. In Steps, reference resources by descriptive name: "Use the Scaling Recipes resource to calculate quantities."
+      *       * Examples:
+      * Scaling Recipes for Your Event
+      * USDA Food Access Atlas Guide
+      * Exemplar: Friendsgiving Final Project Draft
+      * Rationale: The LMS UI already labels items as "WEEKLY RESOURCE," so "Resource 1:" is redundant.
+References
+QA-03: Activity References 🆕
+      * Standard: In Resources, reference activities by descriptive name (bolded).
+QA-04: Resource References 🆕
+      * Standard: Reference resources by descriptive name (bolded).
+QA-05: Unit References 🆕
+      * Standard: Never use "Weeks" in course copy. Always use "Units."
+      * Examples:
+      * "In Unit 7, you learned how to filter a spreadsheet."
+      * "You'll respond to your peers in Unit 9."
+QA-06: Rich Text Spacing  🆕
+Standard: Use single line breaks between elements, not double. No extra blank lines between paragraphs or after headings.
+Rationale: Consistent spacing helps screen reader users predict content structure.
+Good:
+## Heading
+Content starts here.
+Bad:
+## Heading
+
+
+Content starts here.
+
+QA-07: Resource Page Requirements by Tier 🆕
+Tier 1 (External, Light Touch):
+      * Descriptive title
+      * Link to external source
+Tier 2 (External, Guided):
+      * Descriptive title
+      * Link to external source
+      * Brief framing (1-3 sentences)
+Tier 3 (Rize Remix):
+      * Descriptive title
+      * Content organized with H2 headings
+      * Sources section at bottom (required)
+      * Use of creative commons images for illustrating concepts.
+
+
+QA-08: Resource Page Consistency 🆕
+Standard: Within a course, resource pages should use predictable structure: similar heading patterns, consistent formatting for similar content types.
+Rationale: Students learn where to look when structure is predictable.
+Application: If one Tier 3 resource uses "Key Takeaways" as a section, others should too.
+
+
+QA-09: Content Navigation 🆕
+Standard: When pointing to specific content within an external resource, provide specific navigation. Include "Focus on the sections titled...", page numbers, chapters, or timestamps when applicable.
+
+
+QA-10: Exemplar Presentation 🆕
+Standard: Exemplar resources require:
+      * The exemplar itself (document, image, embed, or link)
+      * Annotation explaining what works and why
+      * "What grade would this get?" section (recommended)
+      * Note on scenario gaps if applicable
+Process Walkthroughs need lighter annotation: brief framing and key features to notice.
+QA-11: Source Citations 🆕
+Standard: Tier 3 (Rize Remix) resources must end with a Sources section listing all materials used. Tier 1 and Tier 2 do not need Sources—the external link IS the source.
+
+
+Accessibility
+We follow WCAG 2.1 guidelines to ensure courses are accessible to all students. IDs are responsible for the standards below - others are covered by the UI/software product.
+
+ACC-01: Headings & Lists 
+Standard:
+      * Headings must be used hierarchically (H2 → H3 → H4; never skip levels)
+      * Headings are for structure, not visual styling
+      * Lists must use built-in list tools for ordered and unordered lists (not manual dashes or numbers)
+Rationale: Screen readers use heading structure to navigate and announce lists correctly.
+ACC-02: Hyperlinks 
+Standard: Links must use descriptive text indicating purpose or destination.
+Good: "Download the annual report" or "Review the USDA guidelines" 
+Bad: "Click here" or "Read more"
+Rationale: Screen readers often read links out of context; link text must make sense on its own.
+ACC-03: Alt Text 
+Standard: All informational images need alt text (150 characters max) describing what the image conveys. Decorative images can have empty alt text.
+      * Informational: Charts, diagrams, screenshots → describe what it shows
+      * Decorative: Stock photos, visual flourishes → empty alt text is fine
+Application: AI tools can help draft alt text; review for accuracy.
+ACC-04: Emphasis 🆕
+Standard: Use bold and italics for emphasis, not visual styling.
+      * Bold for key terms or important warnings
+      * Italics for titles, technical terms, or light emphasis
+Rationale: Screen readers can announce emphasized text. Don't overuse—if everything is bold, nothing is.
+ACC-05: PDF Accessibility 🆕
+Standard: PDFs are often inaccessible to screen readers and should be avoided.
+Preferred alternatives:
+      * Link to web version if one exists
+      * Create a Sanity page (html)
+If you must use a PDF:
+      * Text must be selectable (not a scanned image)
+      * Tables must be properly tagged (rare in most PDFs)
+ACC-06: Image Quality
+Standard: All images must be 558px width minimum resolution, .png or .jpg format.
+Rationale: This ensures readability across devices and zoom levels.
+Appendix A: Pending Changes
+      * KLO requirements (LD-ARC-04) have been removed. The MAP framework is in development as a replacement for specifying teachable content and deriving quiz items.
+      * Status: Continue using KLOs until further notice. Standards will be updated once MAP is finalized. 
+      * Context: PLO/CLO structures will likely change in 2026 to include an additional layer.
+      * Status: Continue using PLOs/CLOs until further notice.
+
+
+Appendix B: Standards Removed or Deprecated from F25
+Standard
+	Reason
+	LD-ARC-02 (3-Act Structure)
+	Replaced by 4-Act structure
+	LD-ARC-04 (KLO Requirements)
+	Removed; MAP framework in development
+	QA-NAM-03 (KLO Index format)
+	Removed with KLO requirements
+	QA-RTF-05 (How to Use 500 char limit)
+	Replaced by three-tier resource framework
+	
+
+[a]@gedwards@rize.education Can you clarify what this means?
+_Assigned to gedwards@rize.education_
+[b]This requires UI support so things are clearly tagged “assignment” “discussion” “quiz” and are clearly connected to specific units.

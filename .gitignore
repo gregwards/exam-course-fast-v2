@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Local dev artifacts
+.last-courses-dir
+*.new
+test_write
+
+# Per-course content lives OUTSIDE the plugin (default: ~/Documents/Rize-Courses/)
+# but if anyone happens to drop course content inside, ignore it
+courses/
+
+# Cowork / Claude Code session data
+.claude/
+.cowork/
+
+# Editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Output / temp directories the conductor may create during local testing
+/tmp-test/
+/output-local/
