@@ -1,4 +1,4 @@
-# Course Build Framework — Orientation
+# Exam Fast Mode — Orientation
 
 A quick orientation for instructional designers using this plugin for the first time. If you're already mid-build and want to skim this for a refresher, the phases section is the part to scan.
 

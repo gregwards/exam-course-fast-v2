@@ -1,7 +1,7 @@
 {
-  "name": "course-build",
+  "name": "exam-fast-mode",
   "version": "0.1.0",
-  "description": "Conductor and discriminator framework for building Rize Pillars undergraduate courses end-to-end. Drives the conversation from kickoff through course plan, exemplar assignments, per-act build, and release-gate validation. Enforces learning design standards via embedded templates, scripted checks, persona filter (Online Skeptic), standards auditor, and subject-matter validator.",
+  "description": "Conductor and discriminator framework for building Rize Pillars undergraduate exam-primary courses end-to-end. Drives the conversation from kickoff through course plan, exemplar assignments, per-act build, and release-gate validation. Enforces learning design standards via embedded templates, scripted checks, persona filter (Online Skeptic), standards auditor, and subject-matter validator.",
   "author": {
     "name": "Rize Education"
   },
@@ -10,6 +10,7 @@
     "course-authoring",
     "instructional-design",
     "rize",
-    "pillars"
+    "pillars",
+    "exam-primary"
   ]
 }

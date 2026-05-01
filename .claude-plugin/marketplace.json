@@ -1,0 +1,17 @@
+{
+  "name": "rize-plugins",
+  "owner": {
+    "name": "Rize Education"
+  },
+  "metadata": {
+    "description": "Rize Education's internal plugin marketplace for Cowork.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "exam-fast-mode",
+      "source": "./",
+      "description": "Fast mode for exam-primary course authoring. End-to-end conductor for Pillars course builds with bank-first generation, tiered discriminator review, and standards enforcement."
+    }
+  ]
+}

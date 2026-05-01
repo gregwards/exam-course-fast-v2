@@ -1,6 +1,8 @@
-# Course Build Framework
+# Exam Fast Mode
 
-A Cowork plugin for building Rize Pillars undergraduate courses end-to-end. Drives the conversation from course vision through unit-by-unit production, with built-in review by a learning-design-standards auditor, the Online Skeptic persona filter, and blind-context subject-matter validation.
+A Cowork plugin for building Rize Pillars exam-primary undergraduate courses end-to-end. Drives the conversation from course vision through unit-by-unit production, with built-in review by a learning-design-standards auditor, the Online Skeptic persona filter, and blind-context subject-matter validation.
+
+Plugin ID: `exam-fast-mode`. Skill namespace: `/exam-fast-mode:build-course`.
 
 ## What it does
 
@@ -49,10 +51,10 @@ The conductor reads `~/Documents/Rize-Courses/CHEMY-I/design/design-lock.md` to 
 
 If you're contributing to the framework itself, install the plugin from a local filesystem path so edits take effect immediately:
 
-1. Clone (or work directly in) `course-build-framework-v4/`.
+1. Clone the repo: `git clone https://github.com/rizeedu/exam-fast-mode-v2.git` — this gives you a local `exam-fast-mode-v2/` directory.
 2. In Cowork: Customize → Install plugin from local path → point at the cloned folder.
 3. Edit any skill or prompt file. **Close the current Cowork chat and open a new one** to pick up the change (Cowork has no `/reload` command — new chats read skills from disk on activation). Test.
-4. When ready to ship a change to the team, commit and push to the private GitHub repo backing the org marketplace; Cowork picks up the new version on next sync.
+4. When ready to ship a change to the team, commit and push to `main`. Cowork picks up the new version on the next org-marketplace sync.
 
 ## How it works
 
@@ -66,4 +68,4 @@ If you hit something the framework doesn't handle, surface it to Greg. The frame
 
 ---
 
-*Version 0.1.0 — early local-dev iteration. Not yet distributed via the org marketplace; pending end-to-end validation on the first real course build.*
+*Version 0.1.0 — early local-dev iteration. Distributed via Rize's private Cowork org marketplace at [rizeedu/exam-fast-mode-v2](https://github.com/rizeedu/exam-fast-mode-v2). Pending end-to-end validation on the first real course build.*
